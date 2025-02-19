@@ -61,5 +61,4 @@
     }
 
     document.addEventListener('click', main);
-    console.log('activating');
 })();
